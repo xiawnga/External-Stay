@@ -1,3 +1,5 @@
+# This file is used for anisotropy analysis by Neper. 
+# Pole figure and inverse pole figure are plotted.
 # NOTE1: The .tesr file was named as map1.tesr, map2.tesr etc.
 # NOTE2: A filter is applied here: anisotropy factor larger than 1.8.
 
