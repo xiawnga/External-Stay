@@ -1,3 +1,7 @@
+% This is a Matlab file based on MTEX 6.0.0. 
+% This file is to uniformly pick 1000 data points from EBSD map. 
+% The generated file can be read by Neper.
+
 ebsdfcc = ebsd('Iron fcc');
 
 %Rotate about z-axis 45 degree
