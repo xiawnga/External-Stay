@@ -1,3 +1,7 @@
+% This is a Matlab file based on MTEX 6.0.0. 
+% This file is to plot IPF using different reference directions. 
+% The directions and grain boundary threshold can be changed.
+
 ipfKey = ipfHSVKey(ebsd('Iron fcc'));
 
 % set the reference direction to X
