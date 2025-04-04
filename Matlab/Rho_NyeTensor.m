@@ -1,3 +1,5 @@
+% This is Matlab file to estimate dislocation density using Nye tensor. The initial input can be changed.
+
 %% Step 0: Define Constants and Inputs
 
 % Disorientation angle and axis
