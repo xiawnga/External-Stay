@@ -1,3 +1,7 @@
+% This is a Matlab file based on MTEX 6.0.0. 
+% The function of this program is to convert EBSD data to .tesr file for Neper. 
+% The involved MTEX function is calculating Rodrigues vectors from orientation data.
+
 map_idx = 1; % Change this manually before each run
 
 % Define the main output directory
